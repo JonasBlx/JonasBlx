@@ -5,11 +5,11 @@ I'm **Jonas Balandraux**, a **Junior Data Scientist** passionate about transform
 ---
 
 ### 🚀 About Me
-- 🎓 Master's student in **Data Science at IMT Mines Albi**
-- 🧠 Skilled in **Machine Learning**, **Deep Learning**, **Data Pipelines**, and **MLOps**
-- 💻 Experienced with **Python**, **SQL**, **Snowflake** and **Docker**
-- 🤖 Passionate about **neural networks**, with hands-on experience using **LSTM**, **CNN**, **GNN**, **Transformers**, and **Autoencoders**
-- 🔬 Background in **Data Science for biomedical research** (protein flexibility, Alzheimer’s data)
+- Master's student in **Data Science at IMT Mines Albi**
+- Skilled in **Machine Learning**, **Deep Learning**, **Data Pipelines**, and **MLOps**
+- Experienced with **Python**, **SQL**, **Snowflake** and **Docker**
+- Passionate about **neural networks**, with hands-on experience using **LSTM**, **CNN**, **GNN**, **Transformers**, and **Autoencoders**
+- Background in **Data Science for biomedical research** (protein flexibility, Alzheimer’s data)
 
 ---
 
