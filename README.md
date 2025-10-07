@@ -12,13 +12,15 @@ I'm **Jonas Balandraux**, a **Junior Data Scientist** passionate about transform
 - 🔬 Background in **Data Science for biomedical research** (protein flexibility, Alzheimer’s data)
 
 ---
+
+### My skills
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Programming Languages</kbd>
     <br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-    <img width="30px" src="https://seeklogo.com/vector-logo/505247/sql" alt="SQL" />
+    <img width="30px" src="sql_logo.svg" alt="SQL" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   </kbd>
@@ -49,7 +51,7 @@ I'm **Jonas Balandraux**, a **Junior Data Scientist** passionate about transform
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
-    <img width="40px" src="https://drive.google.com/file/d/1HT7e5GJSL6utwiypPVatmx0GhGhn_3m0/view?usp=drive_link" alt="Snowflake" />
+    <img width="30px" src="snowflake_logo.svg" alt="Snowflake" />
   </kbd>
 
   <kbd>
@@ -61,8 +63,67 @@ I'm **Jonas Balandraux**, a **Junior Data Scientist** passionate about transform
   </kbd>
 </p>
 
+---
+### 💡 My Projects
+
+#### 🤖 Machine Learning & Deep Learning
+<td align="center">
+  <a href="https://github.com/JonasBlx/pokemon_captioning">
+    <img width="260" src="https://gh-card.dev/repos/JonasBlx/pokemon_captioning.svg" alt="pokemon_captioning" />
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/JonasBlx/gnn_training">
+    <img width="260" src="https://gh-card.dev/repos/JonasBlx/gnn_training.svg" alt="gnn_training" />
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/JonasBlx/elmy">
+    <img width="260" src="https://gh-card.dev/repos/JonasBlx/elmy.svg" alt="elmy" />
+  </a>
+</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://github.com/JonasBlx/pytorch_course">
+    <img width="260" src="https://gh-card.dev/repos/JonasBlx/pytorch_course.svg" alt="pytorch_course" />
+  </a>
+</td>
+
+#### ⚙️ Data Engineering & DevOps
+<td align="center">
+  <a href="https://github.com/JonasBlx/Alzheimer-s-Data-Dashboard">
+    <img width="260" src="https://gh-card.dev/repos/JonasBlx/Alzheimer-s-Data-Dashboard.svg" alt="Alzheimer-s-Data-Dashboard" />
+  </a>
+</td>
+<td>
+  <a href="https://github.com/JonasBlx/ci-cd-practice">
+    <img width="260" src="https://gh-card.dev/repos/JonasBlx/ci-cd-practice.svg" alt="ci-cd-practice" />
+  </a>
+</td>
+
+#### 🧬 Health-Related Projects
+<td align="center">
+  <a href="https://github.com/JonasBlx/Alzheimer-s-Data-Dashboard">
+    <img width="260" src="https://gh-card.dev/repos/JonasBlx/Alzheimer-s-Data-Dashboard.svg" alt="Alzheimer-s-Data-Dashboard" />
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/JonasBlx/gnn_training">
+    <img width="260" src="https://gh-card.dev/repos/JonasBlx/gnn_training.svg" alt="gnn_training" />
+  </a>
+</td>
+
+#### ⚡ Energy-Related Project
+<td align="center">
+  <a href="https://github.com/JonasBlx/elmy">
+    <img width="260" src="https://gh-card.dev/repos/JonasBlx/elmy.svg" alt="elmy" />
+  </a>
+</td>
   
 ---
+
+![snake gif](https://github.com/JonasBlx/JonasBlx/blob/output/github-contribution-grid-snake.svg)
 
 ### 📊 GitHub Stats
 <p align="center">
