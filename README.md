@@ -13,8 +13,8 @@ I'm **Jonas Balandraux**, a **Junior Data Scientist** passionate about transform
 
 ---
 
-### My skills
-<p style="display: inline-block;" align="center">
+### 🧰 My Skills
+<p align="center">
   <kbd>
     <kbd>Programming Languages</kbd>
     <br><br>
@@ -123,7 +123,10 @@ I'm **Jonas Balandraux**, a **Junior Data Scientist** passionate about transform
   
 ---
 
+### 🐍 Contribution Snake
 ![snake gif](https://github.com/JonasBlx/JonasBlx/blob/output/github-contribution-grid-snake.svg)
+
+---
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -134,9 +137,15 @@ I'm **Jonas Balandraux**, a **Junior Data Scientist** passionate about transform
 
 ### 🔗 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/jonasbalandraux/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Jonas%20Balandraux-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:jonas.balandraux@mines-albi.fr"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/JonasBlx"><img src="https://img.shields.io/badge/GitHub-JonasBlx-black?logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jonasbalandraux/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Jonas%20Balandraux-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jonas.balandraux@mines-albi.fr">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/JonasBlx">
+    <img src="https://img.shields.io/badge/GitHub-JonasBlx-black?logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
